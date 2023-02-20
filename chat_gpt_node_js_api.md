@@ -78,3 +78,5 @@ NOTE: 问题，返回结果被截断，可能是因为使用chatGPT免费版本�
 
 ### 参考资料
 https://www.youtube.com/watch?v=c7MnlFhJZMI
+
+`ChatGPT Prompt`: write a nodejs restful api which accept a string prompt parameter, then call the openAI endpoint to get a completion, and response with the completion to the caller
