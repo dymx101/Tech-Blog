@@ -63,7 +63,7 @@ http://localhost:3000/api/completions
 `Post请求body`:
 ```
 {
-  "prompt": "why did Russia start war with Ukran?"
+  "prompt": "why did Russia start war with Ukraine?"
 }
 ```
 ### Response returned example
