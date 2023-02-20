@@ -6,7 +6,7 @@ npm init -y
 ```
 npm install express
 npm install openai
-npm install dotenv
+npm install dotenv --save
 ```
 ### 环境变量
 1. 在工程根目录创建 `.env`文件
