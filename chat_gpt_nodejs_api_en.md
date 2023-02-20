@@ -12,7 +12,7 @@ npm install dotenv
 1. Create `.env` file in project's root folder.
 2. Mofify `.env` file, add API key.
 ```
-OPENAI_API_KEY="你的chatGPT API Key"
+OPENAI_API_KEY="your chatGPT API Key"
 ```
 ### Write the main script: index.js
 ```
@@ -57,10 +57,10 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 node index.js
 
 ### Send request to local server
-`Local Api address`:
+`Local Api address`(send a post request):
 http://localhost:3000/api/completions
 
-`Post请求body`:
+`Post request body`:
 ```
 {
   "prompt": "why did Russia start war with Ukraine?"
